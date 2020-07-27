@@ -1,0 +1,5 @@
+jenkins plugins needed for this:
+	
+CloudBees Docker Build and Publish plugin
+Docker Pipeline
+docker-build-step
